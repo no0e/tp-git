@@ -8,7 +8,7 @@ class Voiture:
     couleur : str
         la couleur de la voiture.
     vitesse : int
-        la vitesse de la voiture (initalisée à 0).
+        la vitesse de la voiture (initalisée à 10).
     """
 
     def __init__(self, nom, couleur):
